@@ -67,23 +67,6 @@ The dashboard highlights the year with the strongest performance based on the se
 
 ![MS Dhoni Career Statistics Dashboard](Dashboard/MS-Dhoni-Dashboard.png)
 
-## 📂 Project Structure
-
-```text
-MS-Dhoni-Career-Statistics-Dashboard/
-│
-├── README.md
-├── MS-Dhoni-Career-Statistics-Dashboard.pbix
-│
-├── Dataset/
-│   └── MS-Dhoni-Career-Statistics.xlsx
-│
-├── Dashboard/
-│   └── MS-Dhoni-Dashboard.png
-│
-└── Screenshots/
-    └── dashboard-preview.png
-```
 
 ## 🔍 Insights
 
